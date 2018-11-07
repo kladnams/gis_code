@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540388367256.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2015219177",
+    "id" : "B5A68D2B",
+    "lastKnownWriteTime" : 1540392253,
+    "last_content_update" : 1540392253286,
+    "path" : "//ad.ucl.ac.uk/homed/ucfnkad/Documents/GIS/wk4/GIS_code/Test.Rmd",
+    "project_path" : "Test.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "2,22",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
